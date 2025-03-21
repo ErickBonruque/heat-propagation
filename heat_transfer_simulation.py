@@ -1,5 +1,3 @@
-# c:\Users\bonru\OneDrive\Área de Trabalho\IC-EVANDRO\heat_transfer_simulation.py
-
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
